@@ -1,4 +1,4 @@
-# 👨‍💻 Gabriel Lüttjohann  
+# 👨‍💻 **Gabriel Lüttjohann**  
 
 **`🚀 Desenvolvedor Full Stack`**  
 
@@ -6,7 +6,7 @@ Apaixonado por tecnologia, desenvolvimento web e soluções inovadoras. Com expe
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas  
+## 🛠️ **Tecnologias e Ferramentas**  
 
 <img 
     align="left" 
@@ -66,7 +66,7 @@ Apaixonado por tecnologia, desenvolvimento web e soluções inovadoras. Com expe
 />
 <img 
     align="left" 
-    alt="Tailwind" 
+    alt="Tailwind"
     title="Tailwind"
     width="30px" 
     style="padding-right: 10px;" 
@@ -84,23 +84,21 @@ Apaixonado por tecnologia, desenvolvimento web e soluções inovadoras. Com expe
 <br/>
 <br/>
 
-### 📊 Estatísticas  
+### 📊 **Estatísticas**  
 
-</p>
-  <img 
+<img 
     align="left" 
     alt="GitHub Stats" 
     height="200" 
     style="padding: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=gabrielluttjohann&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+/>
 
 <img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="140" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielluttjohann&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-</p>
+    align="left" 
+    alt="GitHub Top Languages" 
+    height="140" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielluttjohann&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+/>
 
 ![snake gif](https://github.com/gabrielluttjohann/gabrielluttjohann/blob/output/github-snake-dark.svg)
