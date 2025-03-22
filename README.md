@@ -91,7 +91,7 @@ Apaixonado por tecnologia, desenvolvimento web e soluções inovadoras. Com expe
     align="left" 
     alt="GitHub Stats" 
     height="200" 
-    style="padding-right: 10px;" 
+    style="padding: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=gabrielluttjohann&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
