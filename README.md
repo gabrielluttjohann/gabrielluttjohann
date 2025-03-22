@@ -86,7 +86,7 @@ Apaixonado por tecnologia, desenvolvimento web e soluções inovadoras. Com expe
 
 ### 📊 Estatísticas  
 
-<p>
+</p>
   <img 
     align="left" 
     alt="GitHub Stats" 
@@ -98,15 +98,9 @@ Apaixonado por tecnologia, desenvolvimento web e soluções inovadoras. Com expe
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
+      height="140" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielluttjohann&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
-<br/>
-<br/>
-
-### 🐍 Snake Animation  
-
-<p align="center">
-  <img alt="snake animation" src="https://github.com/gabrielluttjohann/gabrielluttjohann/blob/output/github-contribution-grid-snake.svg" />
 </p>
+
+![snake gif](https://github.com/gabrielluttjohann/gabrielluttjohann/blob/output/github-snake-dark.svg)
